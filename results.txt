@@ -1,0 +1,20 @@
+INPUT FILE SIZE      : 19718 Bytes (20kB.txt)
+OUTPUT FILE SIZE     : 7711 Bytes
+60.89 % space saved
+Compression Ratio : 2.5:1
+
+
+
+INPUT FILE SIZE      : 9510 Bytes(10kB.txt)
+OUTPUT FILE SIZE     : 4292 Bytes
+54.87 % space saved
+Compression Ratio : 2.2:1
+
+
+
+
+INPUT FILE SIZE      : 174080 Bytes(a.txt)(this file contains only one letter a ..as this file has more repeating patterns we can compress it with this compressor)
+OUTPUT FILE SIZE     : 706 Bytes
+99.59 % space saved
+Compression Ratio : 246.5:1
+
