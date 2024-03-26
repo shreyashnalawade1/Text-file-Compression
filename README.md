@@ -61,7 +61,4 @@ Clone the repository on your machine.
 - Using this program we can compress text files upto size 20kB.
 - You can refer to results.txt file to get the information about results obtained.
 
-## Authors
-- [@Onkar Viralekar](https://github.com/onkar-1432)
-
   
